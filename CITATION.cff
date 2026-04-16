@@ -1,0 +1,12 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Zhu
+    given-names: Jing Xi
+    orcid: 
+title: "Dataset of bilateral trade network relations among 227 countries 1985 2019"
+version: 1.0.1
+identifiers:
+  - type: 
+    value: 
+date-released: 2026-04-10
